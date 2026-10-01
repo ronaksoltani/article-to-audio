@@ -1,0 +1,4 @@
+requests>=2.31
+trafilatura>=1.8
+gTTS>=2.5
+pydub>=0.25
